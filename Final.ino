@@ -13,8 +13,8 @@
 #define FAN_PIN 25
 #define RelayPin 27
 #define MOISTURE_THRESHOLD 500  // Seuil de sécheresse du sol
-#define API_KEY "AIzaSyDhCCyikj0guQv9aQ7ohwBxNWtqoF9dWeM"
-#define FIREBASE_PROJECT_ID "smartpot-3d8a5"
+#define API_KEY "mon_api_key"
+#define FIREBASE_PROJECT_ID "mon_id_projet"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
