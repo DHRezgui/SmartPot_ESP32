@@ -13,8 +13,8 @@
 #define DHTPIN 32
 #define DHTTYPE DHT11
 #define MOISTURE_THRESHOLD 500  // Seuil de sécheresse du sol
-#define API_KEY "AIzaSyAbLUjK5ZobAXCO-l0gu9w4YhbHUgglPeQ"
-#define DATABASE_URL "https://smart-pot-81cad-default-rtdb.firebaseio.com/"
+#define API_KEY "mon_api_key"
+#define DATABASE_URL "mon_database_url"
 FirebaseData fbdo;
 FirebaseAuth auth;
 FirebaseConfig config;
