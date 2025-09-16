@@ -1,4 +1,3 @@
-#SmartPot_ESP32 (Embedded / IoT)
 
 SmartPot_ESP32 is the embedded IoT part of the SmartPot project, implemented on an ESP32 microcontroller.
 It monitors plant conditions and controls actuators for automated care.
