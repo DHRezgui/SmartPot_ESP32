@@ -9,3 +9,5 @@ It monitors plant conditions and controls actuators for automated care.
 - Communicates with the mobile app and cloud (Firestore)
 - Implements automated care logic and basic AI integration
 - Developed in Arduino IDE / C++
+
+NB: The Final folder contains the complete solution.
