@@ -4,12 +4,8 @@ It monitors plant conditions and controls actuators for automated care.
 
 ✨ Features:
 
-Reads sensors: soil moisture, light, temperature, humidity, water level
-
-Controls water pump and fan
-
-Communicates with the mobile app and cloud (Firestore)
-
-Implements automated care logic and basic AI integration
-
-Developed in Arduino IDE / C++
+- Reads sensors: soil moisture, light, temperature, humidity, water level
+- Controls water pump and fan
+- Communicates with the mobile app and cloud (Firestore)
+- Implements automated care logic and basic AI integration
+- Developed in Arduino IDE / C++
